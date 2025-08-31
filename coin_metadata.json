@@ -1,0 +1,406 @@
+{
+  "Wekanda_Mills_Token_1881": {
+    "Denomination": "Token",
+    "Alloy": "Copper",
+    "Diameter": "22.0 mm",
+    "Thickness": "Unknown",
+    "Weight": "Unknown",
+    "Shape": "Round",
+    "Edge": "Plain",
+    "DieAxis": "0°",
+    "Condition": "Old",
+    "Mint": "Private",
+    "Obverse": "WEKANDA MILLS COFFEE STORES & MILLS COLOMBO around rim. MONOGRAM WM in center.",
+    "Reverse": "VALUE ONE CENT 1881 in four lines. Dots above and below year.",
+    "HistoricalContext": "This privately-issued token served as small change in British Ceylon for trade at Wekanda Mills Coffee Stores in Colombo.",
+    "References": ["Dickson Collection", "Lakdiva Coins"],
+    "numista_id": 95409
+  },
+
+  "One_Stiver_1815_Replica": {
+    "Denomination": "One Stiver",
+    "Alloy": "Copper",
+    "Diameter": "27.0 mm",
+    "Thickness": "Unknown",
+    "Weight": "Unknown",
+    "Shape": "Round",
+    "Edge": "Plain",
+    "DieAxis": "0°",
+    "Condition": "Replica",
+    "Obverse": "CEYLON in single line at top; below in two lines ONE STIVER",
+    "Reverse": "ONE STIVER in single line; and below 1815.",
+    "HistoricalContext": "A 20th-century replica of the 1815 stiver coin, produced privately and mistaken by some as genuine. This coin was never officially minted by the colonial government.",
+    "Note": "Identified as a modern replica based on font irregularities and historical absence in official mint records.",
+    "References": ["Lakdiva Coins - Replica Coins of Ceylon"],
+    "numista_id": 22518
+  },
+
+  "George_IV_Rixdollar_1821": {
+    "Denomination": "One Rixdollar",
+    "Alloy": "Silver",
+    "Diameter": "38.5 mm",
+    "Thickness": "Unknown",
+    "Weight": "26.62 gms",
+    "Shape": "Round",
+    "Edge": "Milled",
+    "DieAxis": "0°",
+    "Condition": "Old",
+    "Mint": "Royal Mint, London",
+    "Obverse": "GEORGIUS IIII D:G: BRITANNIAR: REX F:D: Laureate bust of George IV to the left.",
+    "Reverse": "CEYLON ONE RIXDOLLAR 1821 within a wreath of cinnamon leaves tied with a bow at bottom.",
+    "HistoricalContext": "Issued during British colonial rule in Ceylon, this silver coin reflects the transition to standardized British monetary policy. Though marked 1821, most were struck in 1823.",
+    "References": ["Codrington #113", "Pridmore 74"],
+    "numista_id": 15734
+  },
+
+  "NissankaMalla_CopperMassa": {
+    "Denomination": "Massa",
+    "Alloy": "Copper",
+    "Type": "Struck",
+    "Diameter": "20.82 mm",
+    "Thickness": "Unknown",
+    "Weight": "3.98 gms",
+    "Shape": "Round",
+    "Edge": "Plain",
+    "DieAxis": "0°",
+    "Condition": "Old",
+    "Obverse": "Traditional Lankan massa design of standing king. The head consists of an irregular oblong with three horizontal strokes for the nose, mouth, and chin. Crown bulges at the back. Figure wears a dhoti, stands on a lotus stalk, and holds a lamp and a jasmine flower. Surrounded by five dots and a rim of 40–43 beads.",
+    "Reverse": "Traditional Lankan massa design of seated king. Similar head and crown. The arm is raised, holding a conch shell. Nagari legend reads: Sri Ka le ga la ke ja, representing 'Sri Kalinga Lamkendra' — the Doratiyawa tudupota signature.",
+    "HistoricalContext": "This rare coin is from the 12th century reign of King Nissanka Malla (1187–1196 AD), a monarch of Kalinga descent. After a brief power struggle following King Parakramabahu's death, Nissanka Malla rose to power. He is known for his grand temple constructions and devotion. Described in the Culavamsa, he ruled for 9 years and built monumental Buddhist structures in Pulatthinagara.",
+    "References": [
+      "Codrington #78",
+      "Mitchiner #835",
+      "Ceylon Coins and Currency: H. W. Codrington, 1924",
+      "Culavamsa II Chapter LXXX, translated by Wilhelm Geiger, PTS 1930"
+    ],
+    "Note": "This is a rare coin unlike the six common copper massa coins from the late Polonnaruwa and Dambadeniya era. A base silver type is also known.",
+    "numista_id": 113897
+  },
+
+  "Rupee1 - Old": {
+    "Denomination": "One Rupee",
+    "Alloy": "Brass plated Steel",
+    "Diameter": "20.0 mm",
+    "Thickness": "1.7 mm",
+    "Weight": "3.65 gms",
+    "Shape": "Round",
+    "Edge": "Milled + plain edge",
+    "DieAxis": "0°",
+    "Condition": "Old",
+    "Mint": "Royal, Llantrisant",
+    "Obverse": "The Armorial Ensign of Sri Lanka within circle of dashes along periphery with raised rim.",
+    "Reverse": "A traditional Sinhala design using the Pineapple motif. Value in big රුපියලයි in Sinhala, and smaller ஒரு ரூபாய் in Thamil, and ONE RUPEE below and year of issue at the bottom, with traditional Sinhala Liyavela art on either side.",
+    "numista_id": 895
+  },
+
+  "Rupee1 - New": {
+    "Denomination": "One Rupee",
+    "Alloy": "Stainless Steel",
+    "Diameter": "20.0 mm",
+    "Thickness": "1.75 mm",
+    "Weight": "3.75 gms",
+    "Shape": "Round",
+    "Edge": "Intermittent Milled edge",
+    "DieAxis": "0°",
+    "Condition": "New",
+    "Mint": "Kremnica",
+    "Obverse": "The Armorial Ensign of Sri Lanka with short name of country in SRI LANKA in English, ශ්‍රී ලංකා in Sinhala, and இலங்கை in Thamil.",
+    "Reverse": "The Numeric 1 on top. The value රුපියලයි in Sinhala, ஒரு ரூபாய் in Thamil and ONE RUPEE in English, in three lines below. Surrounded by a border of traditional lotus petals.",
+    "numista_id": 2726
+  },
+
+  "Rupee2 - Old": {
+    "Denomination": "Two Rupees",
+    "Alloy": "Nickel plated Steel",
+    "Diameter": "28.5 mm",
+    "Thickness": "1.5 mm",
+    "Weight": "7.0 gms",
+    "Shape": "Round",
+    "Edge": "Milled",
+    "DieAxis": "0°",
+    "Condition": "Old",
+    "Mint": "Royal, Llantrisant",
+    "Obverse": "The Armorial Ensign of Sri Lanka within circle of dashes along periphery with raised rim.",
+    "Reverse": "Large numeral 2 with big රුපියල් දෙකයි in Sinhala, smaller இரண்டு ரூபாய் in Thamil and TWO RUPEES below. Country name appears in three languages above.",
+    "numista_id": 52660
+  },
+
+  "Rupee2 - New": {
+    "Denomination": "Two Rupees",
+    "Alloy": "Stainless Steel",
+    "Diameter": "22.0 mm",
+    "Thickness": "1.75 mm",
+    "Weight": "4.50 gms",
+    "Shape": "Round",
+    "Edge": "Notched edge",
+    "DieAxis": "0°",
+    "Condition": "New",
+    "Mint": "Kremnica",
+    "Obverse": "The Armorial Ensign of Sri Lanka with short name in 3 languages around the top of the ensign. Year 2017 at the bottom.",
+    "Reverse": "The Numeric 2 on top. Value in Sinhala, Tamil, and English. Surrounded by a border of traditional lotus petals.",
+    "numista_id": 52660
+  },
+
+  "Rupee5 - Old": {
+    "Denomination": "Five Rupees",
+    "Alloy": "Brass plated Steel",
+    "Diameter": "23.5 mm",
+    "Thickness": "2.7 mm",
+    "Weight": "7.7 gms",
+    "Shape": "Round",
+    "Edge": "Milled + incuse CBSL lettering",
+    "DieAxis": "0°",
+    "Condition": "Old",
+    "Mint": "Royal, Llantrisant",
+    "Obverse": "The Armorial Ensign of Sri Lanka within a circle of dashes with raised rim.",
+    "Reverse": "Large numeral 5 with රුපියල් පහයි in Sinhala, ஐந்து ரூபாய் in Tamil, and FIVE RUPEES below. Country name in 3 languages above. Edge has incused CBSL in multiple languages.",
+    "numista_id": 2728
+  },
+
+  "Rupee5 - New": {
+    "Denomination": "Five Rupees",
+    "Alloy": "Stainless Steel",
+    "Diameter": "23.5 mm",
+    "Thickness": "1.80 mm",
+    "Weight": "5.24 gms",
+    "Shape": "Round",
+    "Edge": "Milled with indentations",
+    "DieAxis": "0°",
+    "Condition": "New",
+    "Mint": "Kremnica",
+    "Obverse": "The Armorial Ensign of Sri Lanka with short name in 3 languages around. Year 2017 at the bottom.",
+    "Reverse": "The Numeric 5 on top. Value in Sinhala, Tamil, and English in three lines. Traditional lotus petal border around periphery.",
+    "numista_id": 157400
+  },
+
+  "Rupee10 - Old": {
+    "Denomination": "Ten Rupees",
+    "Alloy": "Stainless Steel (AISI 430)",
+    "Diameter": "26.4 mm",
+    "Thickness": "2.1 mm",
+    "Weight": "8.36 gms",
+    "Shape": "11-sided",
+    "Edge": "Plain",
+    "DieAxis": "0°",
+    "Condition": "Old",
+    "Mint": "Slovak Mint",
+    "Obverse": "The Armorial Ensign of Sri Lanka within a circle of petal design and a partly raised rim.",
+    "Reverse": "Large numeral 10 with රුපියල් දහයයි in Sinhala, பத்து ரூபாய் in Tamil and TEN RUPEES below. Ears of paddy on sides, year at bottom, country name in 3 languages.",
+    "numista_id": 57150
+  },
+
+  "Rupee10 - New": {
+    "Denomination": "Ten Rupees",
+    "Alloy": "Stainless Steel",
+    "Diameter": "26.4 mm",
+    "Thickness": "1.80 mm",
+    "Weight": "6.43 gms",
+    "Shape": "Round",
+    "Edge": "Eleven-lobed",
+    "DieAxis": "0°",
+    "Mint": "Kremnica",
+    "Condition": "New",
+    "Obverse": "The Armorial Ensign of Sri Lanka with country name in 3 languages surrounding. Year 2017 at bottom inside a plain circle.",
+    "Reverse": "The Numeric 10 on top. Value in Sinhala, Tamil, and English in three lines. Surrounded by traditional lotus petal border.",
+    "numista_id": 57150
+  },
+
+  "Twenty_Four_Stiver_1808": {
+    "Denomination": "24 Stiver",
+    "Alloy": "Silver.833Ag",
+    "Type": "Struck",
+    "Diameter": "17.0 mm",
+    "Thickness": "Unknown",
+    "Weight Legal": "4.53 gms",
+    "Weight": "4.695 gms",
+    "Shape": "Round",
+    "Edge": "Plain",
+    "DieAxis": "0°",
+    "Mint": "Ceylon",
+    "Obverse": "Within a circle of dashes an elephant facing left with a perspective ground. The year 1808 below a line.",
+    "Reverse": "Within a circle of dashes Saven dot symbol on top CEYLONGOVERNMENT The value in Stivers 24 ST at center within a bead circle. Two lines below the T.",
+    "HistoricalContext": "A silver coin struck in Ceylon for circulation by authority dated 1808 February 17th, which reduced the fineness standard of the silver coins to .8333.",
+    "Note": "Pridmore lists 2 varieties for 1808 (P#17-18) and 4 for 1809 (P#19-22). A mis-struck version is known. A suspect 1816 coin was noted by Lowsley (1895).",
+    "References": [
+      "Pridmore #17",
+      "Mitchiner #220_",
+      "Krause #76",
+      "Ceylon Coins and Currency By H. W. Codrington, 1924, Page 155"
+    ],
+    "Provenance": "Purchased in January 2000 on Ebay from a US dealer who acquired it in Europe.",
+    "numista_id": 65481
+  },
+
+  "Portuguese_Tanga_1631": {
+    "Denomination": "Tanga",
+    "Alloy": "Silver",
+    "Type": "Struck",
+    "Diameter": "17.0 mm",
+    "Thickness": "Unknown",
+    "Weight_legal": "2.44 gms",
+    "Weight": "2.40 gms",
+    "Shape": "Round",
+    "Edge": "Smooth",
+    "DieAxis": "Unknown",
+    "Mint": "Colombo",
+    "Obverse": "Crowned Coat of arms of Portugal between 3 to left and i to right ([16]3i) within line-dotted-line circles.",
+    "Reverse": "Gridiron of Saint Laurence divides S L (São Lourenço) and flames below within dotted-line-dotted circles. On line circle 4 dots crosswise on top-right-bottom-left.",
+    "HistoricalContext": "Struck in Colombo during the reign of D. Filippe III (1621-1640) for circulation in Portuguese Ceilão. The Portuguese used 'i' for '1', making the date [16]31. This is the first coin with a date issued specifically for Lanka. The gridiron represents Saint Laurence, the namesake of the Portuguese fort in Colombo, São Lourenço.",
+    "Note": "Krause incorrectly describes the flames below the gridiron as a Crown. Codrington assigns it to the time of Captain General Constantino De Sa.",
+    "References": [
+      "Codrington PL 114",
+      "Gomes F3:13.01",
+      "KM #9.1",
+      "Ceylon Coins and Currency By H. W. Codrington",
+      "The Coins of the Dutch Overseas Territories - 1601-1948 by C. Scholten",
+      "Moedas Portuguesas 1128-1988 by Alberto Gomes",
+      "Collection Henry Thomas Grogan, J. Schulman, Auction 23-02-1914",
+      "Non-Islamic and Western Colonies since 600 AD by Michael Mitchiner"
+    ],
+    "numista_id": 49836
+  },
+
+  "Victoria_Quarter_Farthing": {
+    "Denomination": "¼ Farthing",
+    "Alloy": "Copper",
+    "Type": "Standard circulation coin",
+    "Issuer": "Ceylon",
+    "Monarch": "Queen Victoria (1837-1901)",
+    "Years": "1839-1853",
+    "Currency": "Pound (1828-1869)",
+    "Weight": "1.18 g",
+    "Diameter": "13.5 mm",
+    "Shape": "Round",
+    "Edge": "Plain",
+    "Technique": "Milled",
+    "Orientation": "Medal alignment ↑↑",
+    "Mint": "Royal Mint (Tower Hill), London, United Kingdom",
+    "Obverse": {
+      "Description": "First uncrowned portrait ('Young Head') of Queen Victoria facing left, legend around.",
+      "Lettering": "VICTORIA D:G: BRITANNIAR: REGINA F:D:",
+      "Translation": "Victoria by the Grace of God Queen of the Britains Defender of the Faith",
+      "Engraver": "William Wyon"
+    },
+    "Reverse": {
+      "Description": "Denomination across two horizontal lines with crown above and date below, national flower emblems in exergue.",
+      "Lettering": "QUARTER FARTHING",
+      "Engraver": "William Wyon"
+    },
+    "Note": "The standard weight for these pieces was 1/24 ounce (18.2 grains). Struck specifically for use in Ceylon, quarter-farthings were never legal tender in the United Kingdom. They were demonetized on 31 December 1869.",
+    "References": [
+      "KM# 737",
+      "Sp# 3953",
+      "N#19766"
+    ],
+    "numista_id": 19766
+  },
+
+  "Dutch_One_Stuiver_Wreath Series_1712": {
+    "Denomination": "One Stuiver",
+    "Alloy": "Copper",
+    "Type": "Struck",
+    "Era": "~1712 - Dutch Ceilon",
+    "Series": "Wreath Series",
+    "Diameter": "21.0 mm",
+    "Thickness": "Unknown",
+    "Weight_Legal": "14.40 gms",
+    "Weight": "13. gms",
+    "Shape": "Round",
+    "Edge": "Dump",
+    "DieAxis": "0°",
+    "Mint": "Colombo (presumed)",
+    "Obverse": "I st within a wreath of leaves pointing to right on top (revolving clockwise - Schloten Type Aa).",
+    "Reverse": "Similar to Obverse.",
+    "HistoricalContext": "This 'dump' coin is part of the Wreath Series, the only denomination found in multiple types, suggesting issuance from different mints like Colombo, Jaffnapatnam, and Negapatnam. This specific type (Aa) is believed to have been struck at the Colombo mint.",
+    "Varieties": {
+      "Aa": "Wreath of leaves, at top pointing to left, revolving clockwise.",
+      "Ab": "Wreath of leaves, at top pointing to right, revolving anticlockwise.",
+      "B": "Wreath consisting of two branches united at bottom.",
+      "C": "Thorny wreath."
+    },
+    "References": [
+      "Codrington PL123",
+      "Schloten 1290a",
+      "Mitchiner #2176",
+      "Krause #19.1",
+      "Ceylon Coins and Currency By H. W. Codrington",
+      "The Coins of the Dutch Overseas Territories- 1601-1948 by C. Scholten"
+    ],
+    "Acquisition": "Purchased in March 2000 from the John Madlon collection of Dutch Ceylon copper dumps.",
+    "numista_id": 117752
+  },
+
+  "Darley_Butler_Token_1860": {
+    "Denomination": "9 Pence (Task Token)",
+    "Alloy": "Brass",
+    "Diameter": "36.3 mm",
+    "Thickness": "2.4 mm",
+    "Weight": "19.09 gms",
+    "Shape": "Round",
+    "Edge": "Plain",
+    "DieAxis": "0°",
+    "Issuer": "Darley, Butler & Co.",
+    "Location": "Colombo, Ceylon",
+    "Obverse": "Centered radiate Sun Face. DARLEY,BUTLER&CO. * along periphery within dash circle inside raised rim.",
+    "Reverse": "Centered 1860. COLOMBO CEYLON along periphery within dash circle inside raised rim.",
+    "HistoricalContext": "A private token issued by Darley, Butler & Co., a firm established by Edward J. Darley and Samuel Butler. The tokens were likely issued for service in their New Maddema mill on Slave Island, which processed coffee, oil, and plumbago.",
+    "Note": "This token likely represents a 'full task' valued at 9d. A smaller token (29mm, 9.96g) exists, possibly representing a 'half task' (4½d). It is the only token listed in Pridmore with an astronomical symbol.",
+    "References": [
+      "Lowsley Unlisted",
+      "Pridmore #27",
+      "Mitchiner #2237a",
+      "The Coins of British Commonwealth of Nations... by F. Pridmore",
+      "Oriental Coins CE 600 - 1979 by Michael Mitchiner"
+    ],
+    "Acquisition": "Obtained in April 2005 from SriLal Fernando, a collector in Melbourne.",
+    "numista_external": "https://coins.lakdiva.org.lk/coffee/1860_darley_butler_full.html"
+  },
+
+  "Gold_Kahavanu": {
+    "Denomination": "One Kahavanu",
+    "Metal": "Gold 0.60",
+    "Alloy": "Ag%Cu 0.49",
+    "Type": "Struck (Suspected Cast)",
+    "Era": "8-9th Century Lanka (Type)",
+    "Diameter": "19.2 mm",
+    "Thickness": "2.8 mm",
+    "Weight_Standard": "4.54 gms",
+    "Weight": "5.0 gms",
+    "DieAxis": "180°",
+    "Obverse": "Standing figure (Mavra) holding symbols, standing on a lotus stalk, surrounded by a beaded circle. Details include specific symbols, a crescent, and annulets.",
+    "Reverse": "Squatting figure (Bahirava) on a bed-like throne (asana), holding a crescent (adahanda). Nagari legend in three lines reads 'Sri Lanka Vibhu' (Vibhu is a title of Vishnu). Surrounded by a beaded circle.",
+    "HistoricalContext": "This coin is in the style of the anonymous gold Type I Kahavanu - Adahanda from 8-9th Century Lanka.",
+    "AuthenticityAnalysis": "Suspected modern forgery. Reasons include being over 10% heavier than the standard weight, an atypical alloy composition with less silver than copper, and not being listed in Codrington. Expert commentary (Robert Kokotailo) suggests evidence of lost-wax casting, such as perfectly round depressions. Historical notes (John Still, 1907) mention the prevalence of skillfully made forgeries from Kandy.",
+    "References": [
+      "Codrington unlisted",
+      "OMRS-21"
+    ],
+    "Acquisition": "Purchased in July 1993 from Spink & Sons Ltd, at an ANA coin show in Baltimore, USA.",
+    "numista_id": 65113
+  },
+
+  "1998_Sri Lanka_5000Rupee_50th_Independence Anniversary": {
+    "Denomination": "5000 Rupees",
+    "Alloy": "Gold (916.6 Au, 22-carat)",
+    "Diameter": "22.05 mm",
+    "Thickness": "1.7 mm",
+    "Weight": "7.98 gms",
+    "Shape": "Round",
+    "Edge": "Grained",
+    "DieAxis": "0°",
+    "Mintage": "5000 (Proof)",
+    "Mint": "Royal Mint, Llantrisant, Wales",
+    "Event": "50th Anniversary of Sri Lanka's Independence",
+    "Designer": "Mrs. Padmanjalee Karunatillake",
+    "Obverse": "An artist's impression of the 8-9th century Bodhisattva Avalokitheshvara bronze statue. The number '50' is at the bottom between '1948' and '1998'. The legend 'INDEPENDENCE ANNIVERSARY' is written in Sinhala, Tamil, and English.",
+    "Reverse": "The numeral '5000' with the value in Sinhala, Tamil, and English below. The National Flag of Sri Lanka is to the upper right, intersecting a circle of traditional 'Liyavela' artwork. The country name 'SRI LANKA' in three languages is above, and the year '1998' is below.",
+    "HistoricalContext": "Issued on February 4th, 1998, this 22-carat gold sovereign coin was part of a set to commemorate the 50th Anniversary of Independence, along with a 1000 Rupee silver coin and a 10 Rupee circulating coin.",
+    "Packaging": "Enclosed in a circular case and embedded in black velvet inside a red hinged presentation box. Includes a machine-numbered Certificate of Authenticity.",
+    "SalesHistory": "Initial issue price was Rs 8000/- (US $125). Sale by the Central Bank of Sri Lanka was stopped in late 2002 (3620 coins sold), resumed in 2004 at a higher price, and stopped again in early 2005 (4360 sold by end of 2004).",
+    "References": [
+      "KM# 160",
+      "Media Report CDN 1998 02 06"
+    ],
+    "numista_id": 62435
+  }
+}
